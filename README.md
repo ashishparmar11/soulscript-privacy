@@ -1,2 +1,0 @@
-# soulscript-privacy
-soulscript-privacy
